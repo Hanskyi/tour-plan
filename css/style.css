@@ -1,0 +1,11 @@
+body {
+  background-color: #dac3c3;
+  color: red;
+}
+
+@media screen and (max-width: 1200px) {
+  .sidebar {
+    min-width: 500px;
+  }
+}
+/*# sourceMappingURL=style.css.map */
