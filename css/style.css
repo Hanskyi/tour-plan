@@ -1,11 +1,9 @@
-body {
-  background-color: #dac3c3;
-  color: red;
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
 }
 
-@media screen and (max-width: 1200px) {
-  .sidebar {
-    min-width: 500px;
-  }
+body {
+  font-family: 'Muli', sans-serif;
 }
 /*# sourceMappingURL=style.css.map */
